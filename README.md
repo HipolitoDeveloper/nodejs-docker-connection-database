@@ -22,6 +22,6 @@ A API está conectada com um banco Postgres, e a regra de negócio foi feito com
    npm install
    ```
 4.Start
-    ```sh
+   ```sh
    npm start
    ```
