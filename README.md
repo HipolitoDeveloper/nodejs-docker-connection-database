@@ -1,7 +1,7 @@
 # CRUD Postgres com NodeJs
 Criação de uma API com NodeJs e Typescript junto da criação de uma imagem no Docker.
 
-A API está conectada com um banco Postgres, e a regra de negócio foi feito com a ajuda do TypeORM.
+A API está conectada com um banco Postgres e a regra de negócio e modelagem do banco foi feita com o TypeORM.
 
 ## Funções
 - CRUD
